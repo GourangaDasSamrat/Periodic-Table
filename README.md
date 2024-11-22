@@ -28,9 +28,9 @@ https://github.com/user-attachments/assets/09e111b7-f414-4670-822f-b88c7855c082
 
 To run this project locally:
 
-1. Clone the repository:
-
-git clone https://github.com/GourangaDasSamrat/Periodic-Table/
+1. Clone the repository:  
+   ```bash  
+   git clone git@github.com:GourangaDasSamrat/Periodic-Table.git
 
 
 2. Navigate into the project folder:
