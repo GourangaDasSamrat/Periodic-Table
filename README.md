@@ -1,19 +1,23 @@
 
-🌐 Periodic Table Project
+## 🌐 Periodic Table Project
 
 A fully interactive periodic table created using HTML, CSS, and JavaScript. This project allows users to explore detailed information about each element by simply clicking on it, with images provided for better understanding.
 
  <!-- Update with actual screenshot link -->
 
-🎥 Demo Video
+## 🎥 Demo Video
 
 Watch the demo video to see how the interactive periodic table works: 
 
 https://github.com/user-attachments/assets/09e111b7-f414-4670-822f-b88c7855c082
 
+## Live Preview 
+
+[Click Here](https://periodictableonline.tiiny.site/) to see the live preview as a website.
 
 
-✨ Features
+
+## ✨ Features
 
 🔍 Interactive Elements: Click on any element to view details like atomic number, symbol, atomic mass, and other relevant information.
 
@@ -46,7 +50,7 @@ Or, if you’re using VS Code, right-click on index.html and select Open with Li
 
 
 
-🖱️ Usage
+## 🖱️ Usage
 
 1. Browse Elements: The main periodic table interface displays all elements. Click on any element to reveal details.
 
@@ -58,7 +62,7 @@ Or, if you’re using VS Code, right-click on index.html and select Open with Li
 
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML for structure
 
@@ -67,7 +71,7 @@ CSS for styling
 JavaScript for interactivity
 
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 🔎 Search Functionality: Add a search feature for quick access to specific elements.
 
@@ -75,12 +79,20 @@ JavaScript for interactivity
 
 🎨 Animations: Add subtle animations to enhance the user experience when viewing element details.
 
+## Contact us
+[Facebook](https://www.facebook.com/gourangadassamrat)
 
-🤝 Contributing
+[Twitter](https://x.com/gouranga_khulna)
+
+[LinkedIn](https://bd.linkedin.com/in/gouranga-das-samrat-330311294)
+
+[Code Pen](https://codepen.io/gouranga-das-samrat)
+
+## 🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request if you'd like to suggest improvements or add new features.
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
