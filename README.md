@@ -12,7 +12,6 @@ Watch the demo video to see how the interactive periodic table works:
 https://github.com/user-attachments/assets/09e111b7-f414-4670-822f-b88c7855c082
 
 ## Live Preview 
-
 [Click Here](https://periodictableonline.tiiny.site/) to see the live preview as a website.
 
 
@@ -28,7 +27,7 @@ https://github.com/user-attachments/assets/09e111b7-f414-4670-822f-b88c7855c082
 ⚙️ Customizable: Easily add or modify element data with minimal changes in code.
 
 
-🚀 Installation
+## 🚀 Installation
 
 To run this project locally:
 
